@@ -20,6 +20,7 @@
 .env
 node_modules
 .ionide
+.reviews
 
 ### Windows ###
 # Windows thumbnail cache files
